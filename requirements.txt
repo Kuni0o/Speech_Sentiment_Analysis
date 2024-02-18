@@ -1,0 +1,6 @@
+nltk==3.8.1
+PyAudio==0.2.14
+setuptools==69.1.0
+SpeechRecognition==3.10.1
+textblob==0.17.1
+
